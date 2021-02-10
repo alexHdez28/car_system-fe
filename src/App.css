@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.vehicleInMaintanance {
+  background-color: #ffe3de;
+}
+
+.vehicleReady {
+  background-color: #a3ddcb;
+}
+
+.imageSize {
+  height: 150px;
+}
+
+#tblMaintenanceVehicles {
+  text-align: center;
+  width: 100%;
+  margin-top: 3%;
+}
+
+#tblMaintenanceVehicles th {
+  text-align: center;
+}
+
+#tblMaintenanceVehicles td {
+  text-align: center;
+  padding: 1%;
+}
